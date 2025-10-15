@@ -11,4 +11,5 @@ This assignment shows the implementation of Google Maps API heat maps with the c
 **View the heat map:** [https://jmunroe1.github.io/MunroeAssignment5/week6Assignment/](https://jmunroe1.github.io/MunroeAssignment5/week6Assignment/)
 
 **Hardees** - East coast
+
 **Carls Jr** - West coast
